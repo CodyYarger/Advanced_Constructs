@@ -7,7 +7,7 @@ Functional programming approach to a social network model utilizing SQL database
 * Peewee ORM for DB operations
 * Context manager for DB connection (contextlib)
 * Custom logging decorator (functools)
-* Mirrored DB and local mock image storage with cross refencing
+* Mirrored DB and local mock image storage with cross referencing
 * setUP and tearDown test databases to support unittest (unittest.TestCase)
 * Directory structure navigated with recursion
 
